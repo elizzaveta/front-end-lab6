@@ -28,8 +28,6 @@ ajax.get('https://my-json-server.typicode.com/elizzaveta/front-end-lab6/colors',
     let json = JSON.parse(response);
     console.log(json[0].name);
     json.forEach((elem)=>add_color_block(elem));
-    console.log("response text: "+ response);
-    console.log("response json: "+json);
 })
 
 function add_color_block(color_json){
