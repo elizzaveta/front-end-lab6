@@ -1,0 +1,32 @@
+{
+  "colors": [
+    {
+      "name": "red color palette",
+      "1": "#ff0000",
+      "2": "#d01a1a",
+      "3": "#9c2d2d",
+      "4": "#833535"
+    },
+    {
+      "name": "yellow color palette",
+      "1": "#f9ff3e",
+      "2": "#f7ff00",
+      "3": "#ced41b",
+      "4": "#a7aa37"
+    },
+    {
+      "name": "green color palette",
+      "1": "#00ff3b",
+      "2": "#14d441",
+      "3": "#2bbb4c",
+      "4": "#337f45"
+    },
+    {
+      "name": "blue color palette",
+      "1": "#00b4ff",
+      "2": "#1b9fd6",
+      "3": "#327d9c",
+      "4": "#316377"
+    }
+  ]
+} 
