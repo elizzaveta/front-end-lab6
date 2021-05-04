@@ -1,0 +1,15 @@
+.color-block{
+
+}
+.color-container{
+    display: flex;
+}
+.color{
+    height: 70px;
+    width: 70px;
+    background: black;
+}
+body{
+    padding-left: 100px;
+}
+
